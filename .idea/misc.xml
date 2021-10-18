@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rumig/AndroidStudioProjects/Drinks3/app/src/main/res/layout/activity_main.xml" value="0.11614583333333334" />
         <entry key="..\:/Users/rumig/AndroidStudioProjects/Drinks3/app/src/main/res/layout/view_drink.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/rumig/AndroidStudioProjects/Drinks3/app/src/main/res/layout/view_drink_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/rumig/AndroidStudioProjects/Drinks3/app/src/main/res/layout/view_drinks.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>
